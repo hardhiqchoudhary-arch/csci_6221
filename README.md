@@ -80,7 +80,7 @@ OurNews/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/OurNews.git
+git clone https://github.com/hardhiqchoudhary-arch/OurNews.git
 cd OurNews
 ```
 
@@ -202,8 +202,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Hardhiq Choudhary**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Hardhiq Choudhary](https://linkedin.com/in/yourprofile)
+- GitHub: [@hardhiqchoudhary-arch](https://github.com/hardhiqchoudhary-arch)
+- LinkedIn: [Hardhiq Choudhary](https://www.linkedin.com/in/hardhiq-choudhary-a28b56158/)
 - Email: hardhiq.choudhary@gwmail.gwu.edu
 
 ## 🙏 Acknowledgments
@@ -215,9 +215,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Note**: This project was developed as part of academic coursework at George Washington University (September 2025 - December 2025).
 
-## 🐛 Known Issues
-
-- Report issues on the [Issues](https://github.com/yourusername/OurNews/issues) page
 
 ## 📞 Support
 
